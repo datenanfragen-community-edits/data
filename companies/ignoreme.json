@@ -1,0 +1,12 @@
+{
+    "slug": "ignoreme",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "ignoreme",
+    "address": "test",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/990"
+    ]
+}
