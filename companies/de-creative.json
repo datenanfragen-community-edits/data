@@ -10,14 +10,13 @@
     "runs": [
         "Creative Labs Europe"
     ],
-    "address": "Datenschutz (Rechtsabteilung)\nCreative Technology Ltd\n31 International Business Park\n#03-01\nSingapore 609921",
+    "address": "Datenschutz (Rechtsabteilung)\n31 International Business Park\n#03-01\nSingapore 609921\nSingapore",
     "web": "https://de.creative.com/",
     "sources": [
         "https://sg.creative.com/corporate/about",
         "https://de.creative.com/home/gdpr",
         "https://github.com/datenanfragen/data/pull/1848"
     ],
-    "suggested-transport-medium": "email",
     "comments": [
         "EMail per: https://de.creative.com/contactus/"
     ],
