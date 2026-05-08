@@ -7,12 +7,13 @@
         "school"
     ],
     "name": "Europäische Fernhochschule Hamburg GmbH",
-    "address": "Doberaner Weg 20, 22143 Hamburg, Deutschland",
+    "address": "Doberaner Weg 20\n22143 Hamburg\nDeutschland",
     "email": "datenschutz@euro-fh.de",
-    "web": "https://www.euro-fh.de/datenschutz/",
+    "web": "https://www.euro-fh.de/",
     "suggested-transport-medium": "email",
     "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/3436"
+        "https://github.com/datenanfragen/data/pull/3436",
+        "https://www.euro-fh.de/datenschutz/"
     ]
 }
