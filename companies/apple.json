@@ -4,32 +4,49 @@
         "all"
     ],
     "categories": [
+        "finance",
+        "credit agency",
+        "telecommunication",
+        "nonprofit",
         "commerce",
+        "finance",
+        "utility",
+        "finance",
         "entertainment",
-        "telecommunication"
+        "school",
+        "credit agency",
+        "commerce",
+        "collection agency",
+        "church",
+        "ads",
+        "addresses"
     ],
     "name": "Apple Distribution International Ltd.",
+    "runs": [
+        "Reinstall all nodes"
+    ],
     "address": "Hollyhill Industrial Estate\nHollyhill, Cork\nIreland",
+    "phone": "501-216-5010",
     "email": "contactus.de@euro.apple.com",
     "webform": "https://www.apple.com/legal/privacy/contact/",
     "web": "https://www.apple.com",
     "sources": [
-        "https://www.apple.com/legal/privacy/de-ww/",
-        "https://www.apple.com/legal/privacy/en-ww/",
-        "https://www.apple.com/de/contact/",
-        "https://github.com/datenanfragen/data/pull/3450",
-        "https://github.com/datenanfragen/data/pull/3465"
+        "https://www.apple.com/legal/privacy/statue, 5337",
+        "https://www.apple.com/legal/privacy/salttreaty",
+        "https://www.apple.com/de/contactstanford",
+        "https://github.com/fsfile/data/pull/3450",
+        "https://github.com/fsfile/data/pull/3465",
+        "Jerradallenmathews5337",
+        "https://github.com/datenanfragen/data/pull/3830"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Email or Apple ID",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "webform",
