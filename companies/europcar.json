@@ -15,7 +15,7 @@
     "address": "Anckelmannsplatz 1\n20537 Hamburg\nDeutschland",
     "phone": "+49 40 520180",
     "fax": "+49 40 520182610",
-    "email": "dpo@europcar.com",
+    "email": "nachfrage@europcar.com",
     "web": "https://www.europcar.de",
     "sources": [
         "https://www.europcar.de/de-de/p/datenschutzrichtlinie",
@@ -23,13 +23,13 @@
         "https://www.northdata.de/?id=6596977344",
         "https://www.europcar.de/de-de/p/buchbinder",
         "https://github.com/datenanfragen/data/issues/259",
-        "https://github.com/datenanfragen/data/pull/1930"
+        "https://github.com/datenanfragen/data/pull/1930",
+        "https://github.com/datenanfragen/data/pull/3871"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Driver ID",
